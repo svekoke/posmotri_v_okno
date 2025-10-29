@@ -1,1 +1,1 @@
-https://github.com/svekoke/posmotri_v_okno.git
+https://svekoke.github.io/posmotri_v_okno/
